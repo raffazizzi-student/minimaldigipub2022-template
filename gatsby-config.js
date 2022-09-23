@@ -3,7 +3,7 @@ const basePath = '/minimaldigipub2022-template'
 module.exports = {
   pathPrefix: basePath,
   siteMetadata: {
-    title: `Testing Digital Publishing with Minimal Computing Project`,
+    title: `Testin' Digital Publishing with Minimal Computing Project`,
     description: `A template`,
     author: `Course teachers`
   },
